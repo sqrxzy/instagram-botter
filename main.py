@@ -21,10 +21,10 @@ def __main__:
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[1] - Likes ");print("3106");print("[2] - Views ");print("");print("[1] - Followers 17");print("");
    choose=input('> ')
        if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
+          url=https://www.instagram.com/p/DJHNPI7RGtT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
           if req.url==False:
        print('cannot find the post')
           else: 
